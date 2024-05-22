@@ -1,4 +1,4 @@
-# NumbersManager Project
+# NumbersManager
 
 ## Descripción
 
