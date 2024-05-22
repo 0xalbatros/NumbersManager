@@ -49,6 +49,7 @@ El programa presentará un prompt donde podrás ingresar números para agregarlo
    >> 25
    >> 30
    ```
+   Simplemente presiona 'Enter' despues de escribir el numero que quieras ingresar.
 
 3. **Ingresar la opción `proyecto final` para ver el análisis de los números ingresados:**
    ```plaintext
