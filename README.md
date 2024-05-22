@@ -14,7 +14,7 @@ Este proyecto proporciona una clase `NumbersManager` para gestionar, analizar y 
 
 1. **Clonar el repositorio:**
    ```sh
-   git clone https://github.com/tu_usuario/NumbersManager.git
+   git clone https://github.com/0xalbatros/NumbersManager.git
    ```
 
 2. **Navegar al directorio del proyecto:**
