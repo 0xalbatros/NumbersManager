@@ -1,4 +1,4 @@
-# NumbersManager Project
+# NumbersManager
 
 ## Descripción
 
@@ -10,13 +10,11 @@ Este proyecto proporciona una clase `NumbersManager` para gestionar, analizar y 
 
 2. Python: Debes tener Python instalado en tu sistema para poder ejecutar el archivo de Python. Puedes descargar e instalar Python desde el sitio web oficial: https://www.python.org/. Asegúrate de configurar correctamente la variable de entorno PATH durante la instalación para que puedas ejecutar el comando python desde cualquier ubicación en tu terminal.
 
-## Clonar el repositorio
-
 ## Instalación
 
 1. **Clonar el repositorio:**
    ```sh
-   git clone https://github.com/tu_usuario/NumbersManager.git
+   git clone https://github.com/0xalbatros/NumbersManager.git
    ```
 
 2. **Navegar al directorio del proyecto:**
@@ -51,6 +49,7 @@ El programa presentará un prompt donde podrás ingresar números para agregarlo
    >> 25
    >> 30
    ```
+   Simplemente presiona 'Enter' despues de escribir el numero que quieras ingresar.
 
 3. **Ingresar la opción `proyecto final` para ver el análisis de los números ingresados:**
    ```plaintext
@@ -68,6 +67,7 @@ El programa presentará un prompt donde podrás ingresar números para agregarlo
 
 ## Funcionalidades Principales
 
+- `analisis`: Realiza un análisis completo de la lista de números, mostrando estadísticas como pares, cantidad de pares, impares, cantidad de impares, media, mediana, moda, valor máximo, valor mínimo, amplitud, varianza, desviación estándar y un histograma.
 - `pares`: Muestra todos los números pares en la lista.
 - `impares`: Muestra todos los números impares en la lista.
 - `cantidad de pares`: Muestra la cantidad de números pares en la lista.
@@ -75,6 +75,8 @@ El programa presentará un prompt donde podrás ingresar números para agregarlo
 - `borrar`: Borra el último número de la lista.
 - `borrar numero`: Borra un número específico de la lista.
 - `borrar lista`: Borra todos los números de la lista actual.
+- `borrar todos los datos`: Borra todos los datos guardados.
+- `borrar datos`: Borra una lista de datos específica.
 - `guardar`: Guarda la lista actual con un nombre específico o un índice incremental.
 - `cambiar`: Cambia a una lista guardada específica.
 - `histograma`: Muestra un histograma de frecuencias de los números en la lista.
@@ -90,16 +92,7 @@ El programa presentará un prompt donde podrás ingresar números para agregarlo
 - `valor z`: Calcula y muestra el valor Z de un número específico.
 - `amplitud`: Calcula y muestra la amplitud (rango) de los números en la lista.
 - `proyecto final`: Muestra un análisis de los números ingresados, destacando la cantidad de números pares e impares.
-
-## Manejo de Errores
-
-El programa maneja varios tipos de errores para garantizar una ejecución continua:
-
-- `ValueError`: Captura entradas inválidas y muestra un mensaje de error.
-- `IndexError`: Captura intentos de acceso a índices fuera de rango y muestra un mensaje de error.
-- `OSError`: Captura errores relacionados con el sistema operativo, como problemas al cargar listas.
-- `Exception`: Captura cualquier otra excepción y muestra un mensaje de error.
-
+- `exit`: Sale del programa.
 
 ## Licencia
 
