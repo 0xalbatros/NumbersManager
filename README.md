@@ -38,7 +38,7 @@ El programa presentará un prompt donde podrás ingresar números para agregarlo
 
 1. **Ejecutar el programa:**
    ```sh
-   python main.py
+   python src/main.py
    ```
 
 2. **Ingresar algunos números:**
