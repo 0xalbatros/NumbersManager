@@ -29,7 +29,7 @@ Este proyecto proporciona una clase `NumbersManager` para gestionar, analizar y 
 Para ejecutar el programa principal, simplemente ejecuta el archivo `main.py`:
 
 ```sh
-python main.py
+python src/main.py
 ```
 
 El programa presentará un prompt donde podrás ingresar números para agregarlos a la lista o comandos para realizar diversas operaciones. A continuación, se muestra un ejemplo de uso priorizando la opción "proyecto final".
@@ -38,7 +38,7 @@ El programa presentará un prompt donde podrás ingresar números para agregarlo
 
 1. **Ejecutar el programa:**
    ```sh
-   python main.py
+   python src/main.py
    ```
 
 2. **Ingresar algunos números:**
