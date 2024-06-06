@@ -1,5 +1,5 @@
-from src.utils.clearConsole import clear_console
-from src.dao.NumbersManager import NumbersManager
+from utils.clearConsole import clear_console
+from dao.NumbersManager import NumbersManager
 
 def main():
     try:
